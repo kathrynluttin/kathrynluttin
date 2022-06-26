@@ -1,1 +1,15 @@
+h1,h2,h3 {
+    color:#0787ad;
+}
 
+section {
+    background-color:#ebd3edfd;
+    padding:20px;
+    border-radius:20px;
+}
+
+section:nth-of-type(odd) {
+    background-color:#d0ecf5fd;
+    padding:20px;
+    border-radius:20px;
+}
