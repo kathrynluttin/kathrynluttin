@@ -1,4 +1,13 @@
+header h1 {
+    font-size:3rem;
+}
+
+header p {
+    font-size:1.3rem;
+}
+
 h1,h2,h3 {
+    font-weight:400;
     color:#0787ad;
     padding-bottom:10px;
 }
