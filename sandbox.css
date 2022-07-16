@@ -1,6 +1,13 @@
-header {
-    background-image:url('./header-image.jpg');
-    background-size:contain;
+header img {
+
+}
+
+header h1 {
+
+}
+
+header p {
+
 }
 
 h1, h2, h3, h4 {
