@@ -18,6 +18,15 @@ h1,h2,h3 {
     clear:both;
 }
 
+/* Use this for subheadings in h1, h2, h3. */
+h1 small,
+h2 small, 
+h3 small {
+    display:block;
+    padding-top:15px;
+    font-size:75%;
+}    
+
 section {
     background-color:#bad4bc;
     padding:20px;
